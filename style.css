@@ -1,0 +1,14 @@
+body {
+  font-size: 100%;
+  margin: 0 auto;
+  width: 33em;
+}
+
+#timer {
+  font-size: 10em;
+  color: darkgreen;
+}
+
+#display {
+  font-size: 5em;
+}
