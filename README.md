@@ -1,7 +1,6 @@
-timer
+[timer](http://dtrejo.com/timer)
 =====
 
-super minimal timer app for workouts or whatever you like
+[super minimal timer app for workouts or whatever you like](http://dtrejo.com/timer)
 
-## demo
-## [http://dtrejo.com/timer/#30s 50% exertion, 30s 75% exertion, 30s 100% exertion](http://dtrejo.com/timer/#30s 50% exertion, 30s 75% exertion, 30s 100% exertion)
+<http://dtrejo.com/timer>
