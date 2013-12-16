@@ -1,7 +1,12 @@
 body {
-  font-size: 100%;
+  font-size: 125%;
   margin: 0 auto;
   width: 33em;
+  color: #2F1C00;
+}
+
+#timer, #display {
+  text-shadow: 1px 1px 1px #111;
 }
 
 #timer {
